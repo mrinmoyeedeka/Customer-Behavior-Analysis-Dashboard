@@ -222,10 +222,8 @@ customer_behavior_analysis_dashboard
 
 ### Dashboard Snapshot
 
-![Dashboard](https://github.com/Mudit-Thakur/customer_behavior_analysis_dashboard/blob/main/dashboard_snapshot.png)
+![Dashboard](https://github.com/mrinmoyeedeka/customer_behavior_analysis_dashboard/blob/main/dashboard_snapshot.png)
 
-
-<img width="1286" height="720" alt="dashboard_snapshot" src="https://github.com/user-attachments/assets/314601a9-2aae-4ca0-a33a-a6d9f87259cc" />
 
 ---
 
